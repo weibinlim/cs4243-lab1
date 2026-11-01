@@ -1,0 +1,39 @@
+{
+  "n_images": 17,
+  "material_matches": 6,
+  "material_agreement_rate": 0.35294117647058826,
+  "mean_human_human_jaccard_13term": 0.5127450980392156,
+  "mean_human_model_jaccard_13term": 0.2376750700280112,
+  "excluded_non_model_terms": [
+    "veined"
+  ],
+  "pearson_confidence_anomaly": -0.23223540070666007,
+  "illumination_group_means": {
+    "material_confidence": {
+      "high": 0.975,
+      "low": 0.803,
+      "medium": 0.935
+    },
+    "anomaly_score": {
+      "high": 8.902,
+      "low": 235.448,
+      "medium": 10.773
+    }
+  },
+  "grid_viewpoint_probe": [
+    {
+      "image": "grid1",
+      "predicted_material": "tile",
+      "material_confidence": 1.0,
+      "anomaly_score": 7.725168228149414,
+      "human_model_jaccard_13term": 0.3333333333333333
+    },
+    {
+      "image": "grid3",
+      "predicted_material": "tile",
+      "material_confidence": 1.0,
+      "anomaly_score": 7.3547282218933105,
+      "human_model_jaccard_13term": 0.14285714285714285
+    }
+  ]
+}

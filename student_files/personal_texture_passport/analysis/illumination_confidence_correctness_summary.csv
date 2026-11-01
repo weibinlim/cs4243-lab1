@@ -1,0 +1,4 @@
+illumination,mean_confidence,material_correctness,n
+high,0.9754743948578835,0.5,8
+medium,0.9346333401543754,0.2857142857142857,7
+low,0.8033886253833771,0.0,2
